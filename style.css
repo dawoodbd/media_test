@@ -17,6 +17,10 @@ h1 {
     color:blue;
     font-size: 80px;
 }
+h2 {
+    font-size: 30px;
+    color: aqua;
+}
 }
 @media(min-width:481px)and (max-width:1200px) {
     body {
