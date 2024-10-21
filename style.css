@@ -1,0 +1,41 @@
+body {
+    background-color: blue;
+}
+body {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+@media(min-width:319px)and (max-width:480px) {
+body {
+    /* height: 300px; */
+    /* width: 300px; */
+    background-color: lightcoral;
+}
+}
+@media(min-width:481px)and (max-width:1200px) {
+    body {
+        /* height: 215PX; */
+        /* width: 600px; */
+        background-color: blueviolet;
+    }
+}
+@media(min-width:1201px)and (max-width:1600px) {
+    body {
+        /* height: 600px; */
+        /* width: 800px; */
+        background-color: brown;
+    }
+}
+@media(min-width:1601px) {
+    body {
+        /* height: 800px; */
+        /* width: 800px; */
+        background-color:seagreen ;
+    }
+}
+
+
+ 
+   
