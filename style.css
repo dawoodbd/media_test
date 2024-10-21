@@ -13,6 +13,9 @@ body {
     /* width: 300px; */
     background-color: lightcoral;
 }
+h1 {
+    color:blue;
+}
 }
 @media(min-width:481px)and (max-width:1200px) {
     body {
